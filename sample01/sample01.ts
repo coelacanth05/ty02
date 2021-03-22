@@ -1,2 +1,2 @@
-let message = "typescriptを勉強中です"
+let message = "Ecmascriptを勉強中です"
 console.log(message);
